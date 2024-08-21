@@ -12,6 +12,18 @@ Here are some ideas to get you started: -->
 - Me puedes encontrar en mi [LinkedIn](https://www.linkedin.com/in/angelanappe) para saber más de mi o a través de mi correo personal: angela.nappe@gmail.com.  
 Además de la tecnología, me encanta leer, cocinar y me gusta hacer deporte🏃🏼‍♀️‍➡️. Por lo que, si no me encuentras aquí, estaré disfrutando alguna de esas actividades. Por mientras:  
 
-Bienvenido a mi GitHub!🌟 Aquí encontrarás proyectos que muestran lo que he aprendido y mi compromiso con crecer continuamente.  
+¡Bienvenido a mi GitHub!🌟 Aquí encontrarás proyectos que muestran lo que he aprendido y mi compromiso con crecer continuamente.  
 
-- Tecnologías: Python, Django, PostgreSQL, JavaScript, HTML, CSS, C, Java, Spring Boot.
+- Tecnologías:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+ 
+
+
+
+
